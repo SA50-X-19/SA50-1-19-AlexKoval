@@ -71,8 +71,8 @@
     align-items: center;
     display: flex;
     justify-content: center;
-    height: 36px;
-    width: 112px;
+    height: 37px;
+    width: 100px;
     border: 1px solid #F2994A;
     box-sizing: border-box;
     border-radius: 4px;
@@ -82,8 +82,8 @@
     align-items: center;
     display: flex;
     justify-content: center;
-    width: 112px;
-    height: 36px;
+    width: 100px;
+    height: 37px;
     background: #F2994A;
     box-shadow: -11.09px 18.13px 36.6483px rgba(242, 153, 74, 0.13);
     border-radius: 3px;
@@ -117,16 +117,17 @@
   
   .logo__item1{
     background-color: white;
-    width: 14px;
+    width: 23px;
     height: 6px;
     z-index: 2;
     border-radius: 15%;
     margin-bottom: 2px;
   }
   
+
   .logo__item2{
     background-color: white;
-    width: 14px;
+    width: 23px;
     height: 6px;
     z-index: 2;
     border-radius:  15%;
